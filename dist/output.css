@@ -558,7 +558,17 @@ video {
   line-height: 2.5rem;
 }
 
+.text-8xl {
+  font-size: 6rem;
+  line-height: 1;
+}
+
 .text-red-700 {
   --tw-text-opacity: 1;
   color: rgb(185 28 28 / var(--tw-text-opacity));
+}
+
+.text-red-custom {
+  --tw-text-opacity: 1;
+  color: rgb(253 104 27 / var(--tw-text-opacity));
 }
